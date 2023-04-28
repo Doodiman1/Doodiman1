@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doodiman1
 - I like coding, exploits, networking, python and C
 - Eventually I would like to learn assembly language and Rust, but at the minute I have my hands full with learning the above. 
-- This is somehwere to store my code as I'm a LinuxBoi and constantly wiping my OS. 
+- This is somehwere to store my code as I'm a LinuxBoi and constantly changing my OS. 
 - Okloveyoubye
 
 <!---
