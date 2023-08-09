@@ -12,7 +12,7 @@ Expect to come across repositories that dive into topics like:
     C Programming: Delving into the world of C programming, you'll find projects that showcase my journey in understanding memory management, data structures, and system-level programming.
     Python: Explore projects that highlight the versatility of Python, from automation scripts to web applications, and witness how this language can bring ideas to life.
     Bug Bounty: Follow my exploits in the world of bug bounty hunting as I (continually fail to) uncover vulnerabilities, report them responsibly, and contribute to a more secure digital landscape.
-    Algorithms Unleashed: Join me in unraveling the beauty of algorithms and cryptography, with repositories that showcase elegant solutions to complex problems and insights into securing data.
+    Algorithms: Join me in unraveling the beauty of algorithms and cryptography, with repositories that showcase elegant solutions to complex problems and insights into securing data.
 
 🤝 Let's Connect
 Feel free to reach out if you share similar interests, have advice about any of the projects, or simply want to collaborate on something exciting. Connecting with fellow enthusiasts is what makes this journey even more enriching.
