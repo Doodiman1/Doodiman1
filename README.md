@@ -1,7 +1,7 @@
 Hey there! Welcome to my GitHub profile. I'm thrilled to have you here and excited to share my journey through the fascinating world of programming, security, and algorithms. Let me give you a sneak peek into what you can expect to find here.
 
 👋 About Me
-I'm passionate about all things related to programming and cybersecurity. My interests span across a variety of domains, including C programming, Python programming, bug bounty hunting, and the intriguing realm of algorithms and cryptography.
+I'm passionate about all things related to programming and networking. My interests span across a variety of domains, including C programming, Python programming, bug bounty hunting, and the intriguing realm of algorithms and cryptography.
 
 🔍 What You'll Discover
 On this GitHub repository, you'll find a collection of projects, code snippets, and resources that reflect my ongoing exploration of these fields. Whether it's mastering the low-level intricacies of computer internals through C programming or harnessing the power of Python for innovative solutions, I'm committed to sharing my insights and progress with you.
